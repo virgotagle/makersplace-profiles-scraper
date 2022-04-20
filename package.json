@@ -1,0 +1,17 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "A simple JavaScript for scraping Jobs List from [CareerBuilder](https://www.careerbuilder.com/) base on keyword and location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "lodash": "^4.17.21",
+    "xlsx": "^0.18.5"
+  }
+}

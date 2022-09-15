@@ -1,2 +1,2 @@
-# MakersPlace Profiles Web Scraper
-A simple NodeJs Application for scraping Profiles from [MakersPlace](https://makersplace.com/).
+# JustWatch Web Scraper
+A simple Python Application for scraping Shows from [JustWatch](https://www.justwatch.com/).

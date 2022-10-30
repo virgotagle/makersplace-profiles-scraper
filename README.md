@@ -1,2 +1,3 @@
-# JustWatch Web Scraper
-A simple Python Application for scraping Shows from [JustWatch](https://www.justwatch.com/).
+
+# makersplace Web Scraper
+A simple Node Application for scraping data from [JustWatch](https://makersplace.com/).
